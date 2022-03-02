@@ -9,7 +9,7 @@
 [![iuricode](https://github-readme-stats.vercel.app/api?username=VladexCode&theme=dark)](https://github.com/VladexCode/)  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VladexCode&hide=html&layout=compact&theme=dark)](https://github.com/VladexCode/)
 
 ## Menu
-- [Contato](#contato)
+- [Contacto](#contacto)
 - [Social](#social)
 - [Blog](#blog)
 - [Streaming](#streaming)
@@ -18,10 +18,10 @@
 
 
 
-## Contato
-
-[![iuricode](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white")](https://github.com/VladexCode/)
+## Contacto
 <!---
+[![iuricode](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white")](https://github.com/VladexCode/)
+
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> 
