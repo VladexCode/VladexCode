@@ -6,7 +6,7 @@
 --->
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=VladexCode&theme=dark)](https://github.com/VladexCode/)  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VladexCode&hide=html&layout=compact&theme=dark)](https://github.com/VladexCode/)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=VladexCode&theme=dark)](https://github.com/VladexCode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VladexCode&hide=html&layout=compact&theme=dark)](https://github.com/VladexCode/)
 
 ## Menu
 - [Contacto](#contacto)
